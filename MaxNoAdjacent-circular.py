@@ -1,4 +1,4 @@
-#dynamic programming
+#dynamic programming. Finds maximum value of non-adjacent items in a loop.
 import sys
 import math
 
