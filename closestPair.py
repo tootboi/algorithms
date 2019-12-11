@@ -1,4 +1,4 @@
-#divide and conquer
+#divide and conquer -- finds closest pair on 2D plane
 import math
 from heapq import heappush, heappop
 import time
