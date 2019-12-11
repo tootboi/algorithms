@@ -1,4 +1,4 @@
-#compute largest contiguos interval obtained by taking union of some input intervals
+#compute largest contiguos interval obtained by taking union of some input intervals.
 import sys
 
 def main():
