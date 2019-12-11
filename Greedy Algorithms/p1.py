@@ -1,4 +1,4 @@
-#finds max number of non-overlapping intervals
+#finds max number of non-overlapping intervals.
 from heapq import heappush, heappop
 import sys
 
