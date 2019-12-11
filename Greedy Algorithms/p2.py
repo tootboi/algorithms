@@ -1,4 +1,4 @@
-#find max number of intervals that overlap at single point
+#find max number of intervals that overlap at single point.
 import sys
 from heapq import heappush, heappop, heapify
 
